@@ -2,10 +2,10 @@
 Hasil Explorasi Mata Kuliah Pemrograman Berorientasi Objek dengan Java
 
 # Anggota Kelompok :
-- Hilmy Oktoharitsa
-- Ilham Triza Kurniawan
-- Listiana Hasanah Dewi
-- Luthfi Alri
-- Muhammad Alfarizi
-- Rayhan Zharfan Al Ghifari
-- Renol Putra Hanafi
+- 15 - Hilmy Oktoharitsa
+- 16 - Ilham Triza Kurniawan
+- 20 - Listiana Hasanah Dewi
+- 21 - Luthfi Alri
+- 23 - Muhammad Alfarizi
+- 27 - Rayhan Zharfan Al Ghifari
+- 28 - Renol Putra Hanafi
