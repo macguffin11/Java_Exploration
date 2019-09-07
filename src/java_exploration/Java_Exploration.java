@@ -5,6 +5,8 @@
  */
 package java_exploration;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Luthfi Alri
@@ -16,6 +18,10 @@ public class Java_Exploration {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Scanner im = new Scanner(System.in);
+        
+        float str = im.nextFloat();
+        System.out.println(str);
     }
     
 }
